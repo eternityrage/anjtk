@@ -462,5 +462,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-3e107fcf-4422-4b4d-baf0-1640df301c1d.mp4",
+        "metadata": {
+            "title": "Angelina Jolie Through the Lens: The Craft, the Courage, and the Iconic Moments That Stayed With Us",
+            "description": "Today on AnjoTok Lens, we\u2019re taking a slow, respectful look at Angelina Jolie\u2014not just as a Hollywood legend, but as an actress whose performances feel meticulously lived-in, emotionally brave, and unforgettable. From the sharp charisma that made Lara Croft feel fearless to the haunting grace of Maleficent, every moment on screen reminds us how much craft she brings to each role. We also honor the quieter power in her work\u2014where films like Girl, Interrupted and Changeling show depth, complexity, and a commitment to characters that linger long after the credits roll. Whether you think of her as a screen icon from Mr. & Mrs. Smith or you connect to her grounded presence in every transformation, this is a tribute to the artistry and the heart behind the performances. Like if you love Angelina Jolie! Comment your favorite Angelina Jolie film below! Share this with a fellow movie lover! Follow AnjoTok Lens for daily Angelina Jolie appreciation! #angelinajolie #laracroft #maleficent #actress #hollywood #cinema #oscarwinner #mrandmrssmith #girlinterrupted #movielover #film #fanpage #appreciation #tribute",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
